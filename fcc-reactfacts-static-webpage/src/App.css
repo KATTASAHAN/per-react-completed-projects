@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;900&display=swap');
+*{
+  box-sizing: border-box;
+}
+.bg-img {
+  background-image: url("./reactjsicon2.svg");
+  background-repeat: no-repeat;
+  background-position: right; 
+  background-color: #282D35;
+  height: 100vh;
+}

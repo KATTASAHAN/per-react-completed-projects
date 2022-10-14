@@ -1,0 +1,29 @@
+.bod {
+  margin: 30px;
+}
+.f900B {
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
+}
+.f400N {
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
+}
+/* ul {
+  list-style: none;
+} */
+/* ul li::before {
+  content: "\2022";
+  font-size: xx-large;
+  color: #61dafb;
+  padding-right: 10px;
+  vertical-align: middle;
+  display: inline-table;
+  line-height: 19px;
+} */
+ul > li::marker {
+  font-size: 1.4rem;
+  line-height: 19px;
+  vertical-align: middle;
+  color: #61DAFB;
+}
