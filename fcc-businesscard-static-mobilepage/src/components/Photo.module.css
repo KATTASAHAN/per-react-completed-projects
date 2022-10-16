@@ -1,0 +1,8 @@
+.photospace {
+  width: 317px;
+  height: 317px;
+  margin: 44px auto 0;
+  border-radius: 10px 10px 0px 0px;
+
+  background-color: yellow;
+}
